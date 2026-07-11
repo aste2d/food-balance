@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":["minecraft:golden_carrot"]}}}},"rewards":{"function":"foodbuffs:foodstatus/golden_carrot"}}

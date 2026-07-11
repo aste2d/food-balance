@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":["minecraft:glistering_melon_slice"]}}}},"rewards":{"function":"foodbuffs:foodstatus/glistering_melon_slice"}}

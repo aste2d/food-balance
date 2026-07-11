@@ -1,0 +1,1 @@
+{"criteria":{"requirement":{"trigger":"minecraft:consume_item","conditions":{"item":{"items":["minecraft:glow_berries"]}}}},"rewards":{"function":"foodbuffs:foodstatus/glow_berries"}}

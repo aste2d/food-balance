@@ -1,0 +1,1 @@
+#advancement revoke @s only foodbuffs:foodstatus/glistering_melon_slice
